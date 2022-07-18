@@ -6,6 +6,7 @@
   "author": "castaval <alexander.kiosk@mail.ru>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "node-telegram-bot-api": "^0.58.0",
     "vk-io": "^4.6.0"
   }
