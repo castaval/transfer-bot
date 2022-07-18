@@ -1,0 +1,12 @@
+{
+  "name": "transfer-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/castaval/transfer-bot.git",
+  "author": "castaval <alexander.kiosk@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "vk-io": "^4.6.0"
+  }
+}
